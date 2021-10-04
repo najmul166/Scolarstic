@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "C",
+      "lecture": 18,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 4000,
+      "project": 8,
+      "img" :"https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg"
+    },
+    {
+      "id": 2,
+      "name": "C++",
+      "lecture": 32,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 3000,
+      "project": 9,
+      "img" :"https://media.geeksforgeeks.org/wp-content/cdn-uploads/titleShadow-1024x341.png"
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "lecture": 22,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 5000,
+      "project": 12,
+      "img" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "Java",
+      "lecture": 30,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 4000,
+      "project": 13,
+      "img" :"https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+    },
+    {
+      "id": 5,
+      "name": "Javascript",
+      "lecture": 20,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 5000,
+      "project": 14,
+      "img" :"https://www.kindpng.com/picc/m/78-787677_javascript-icon-google-web-designer-logo-png-transparent.png"
+    },
+    {
+      "id": 6,
+      "name": "PHP",
+      "lecture": 18,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 4500,
+      "project": 11,
+      "img" :"https://cdn.imgbin.com/16/7/6/imgbin-computer-icons-php-portable-network-graphics-logo-ico-programming-code-kkteEJ30qdiKPMwL33ujLwHwe.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Django",
+      "lecture": 30,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 8000,
+      "project": 15,
+      "img" :"https://www.fullstackpython.com/img/logos/django.png"
+    },
+    {
+      "id": 8,
+      "name": "Spring-Boot",
+      "lecture": 34,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 10000,
+      "project": 20,
+      "img" :"https://spring.io/images/OG-Spring.png"
+    },
+    {
+      "id": 9,
+      "name": "Laravel",
+      "lecture": 28,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 7000,
+      "project": 16,
+      "img" :"https://cms-assets.tutsplus.com/uploads/users/71/courses/854/preview_image/get-started-with-laravel-6-400x277.png"
+    }
+]

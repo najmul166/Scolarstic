@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "C",
+      "lecture": 18,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 4000,
+      "project": 8,
+      "img" :"https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg"
+    },
+    {
+      "id": 2,
+      "name": "C++",
+      "lecture": 32,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 3000,
+      "project": 9,
+      "img" :"https://media.geeksforgeeks.org/wp-content/cdn-uploads/titleShadow-1024x341.png"
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "lecture": 22,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 5000,
+      "project": 12,
+      "img" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "Java",
+      "lecture": 30,
+      "language": "Eng",
+      "requirement": "Computer",
+      "paid": 4000,
+      "project": 13,
+      "img" :"https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+    }
+]
