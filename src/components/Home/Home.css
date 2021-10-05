@@ -38,3 +38,47 @@
     cursor: pointer;
 }
 
+
+
+
+
+.mart-container{
+    background-color: rgb(70, 70, 245);
+    height: 400px;
+    width: 100%;
+    padding-bottom: 150px;
+    margin-right: 10px;
+    
+}
+header img{
+    margin: 80px;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    margin: 80px;
+}
+
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    margin-left: 205px;
+}
+.paragraph-content {
+    padding-bottom: 80px;
+    color: rgb(56, 47, 56);
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-left: 30px ;
+}
